@@ -1,4 +1,4 @@
-# Plot2 is xy plot of Global Active Power (column3) as a function of time of day
+# Plot4 is is a panel plot of various data views - comments for each plot below
 # the x axis is plot in terms of day of the week
 
 # read in dataset
